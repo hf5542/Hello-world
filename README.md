@@ -3,5 +3,5 @@ studying begin
 
 hi github
 
-how to studying the github ,is very usefull
+how to studying with the github ,is very usefull
 studying branch
